@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anoxle.github.io/hades94/sitemap.xml
